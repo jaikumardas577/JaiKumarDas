@@ -10,7 +10,7 @@ export class AboutComponent implements OnInit {
   primary_addresss:string;
 
   constructor() { 
-    this.primary_addresss = "46-2B,Near Gangama Temple Balaji, H A Farm Post,Bhuvaneswari Nagar Dasarahalli,Bengaluru, Karnataka "
+    this.primary_addresss = "Nexia Park, Guwahati, Assam"
     // this.about_quote = "Currently i am a full stack software developer at DHIRA software lab with knowledge of Object Oriented Programming, Databases, DevOps,Various Framework and Cloud Enigneering. Here In Dhira, I have responsibility of developing efficient code both in frontend and backend,Designing Flows ,Scrapping data and Continuos Deployment in the AWS Platform.I have worked in plenty Machine learning and Web Development projects.I am technology enthusiast and a great lover of Automation. For Fun I love to play football, travel and surfing for good music in the internet."
     this.about_quote = `Hello World!! I'm a Software Developer with a passion for exploration and continual learning.
     I am interested in exploring the fields of Software Engineering, Full-Stack Development, Data Science, and Machine Learning, and I am open to opportunities for the same. Feel free to reach me !
